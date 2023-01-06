@@ -1,3 +1,3 @@
-#Hey there 👋, I'm Alireza Atashfaraz
+Hey there 👋, I'm Alireza Atashfaraz
 
-###A passionate front end developer and programmer
+A passionate front end developer and programmer
