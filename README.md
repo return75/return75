@@ -16,20 +16,6 @@
 
 ### A passionate front end developer and programmer
 
-
-### Some projects I have done
-<div class="gif-container">
-<img src="https://github.com/return75/tanks-game/raw/master/tanks-war.gif" class="gif" />
-<img src="https://github.com/return75/return75/raw/main/github-3d.gif" class="gif" />
-<img src="https://github.com/return75/return75/raw/main/perlin.gif" class="gif" />
-<img src="https://github.com/return75/return75/raw/main/arrow.gif" class="gif" />
-<img src="https://github.com/return75/4Cars/raw/master/4cars.gif" class="gif" />
-</div>
-
-<br/>
-<br/>
-
-
 **languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
