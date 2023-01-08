@@ -20,11 +20,11 @@
 
 ### Some projects I have done
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem">
-<img src="https://github.com/return75/tanks-game/raw/master/tanks-war.gif" width="300px" style="border-radius: 1rem" />
-<img src="https://github.com/return75/return75/raw/main/github-3d.gif" width="300px" style="border-radius: 1rem" />
-<img src="https://github.com/return75/return75/raw/main/perlin.gif" width="300px" style="border-radius: 1rem" />
-<img src="https://github.com/return75/return75/raw/main/arrow.gif" width="300px" style="border-radius: 1rem" />
-<img src="https://github.com/return75/4Cars/raw/master/4cars.gif" width="300px" style="border-radius: 1rem" />
+<img src="https://github.com/return75/tanks-game/raw/master/tanks-war.gif" style="border-radius: 16px" />
+<img src="https://github.com/return75/return75/raw/main/github-3d.gif" style="border-radius: 1rem" />
+<img src="https://github.com/return75/return75/raw/main/perlin.gif" style="border-radius: 1rem" />
+<img src="https://github.com/return75/return75/raw/main/arrow.gif" style="border-radius: 1rem" />
+<img src="https://github.com/return75/4Cars/raw/master/4cars.gif" style="border-radius: 1rem" />
 </div>
 
 <br/>
