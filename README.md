@@ -1,5 +1,6 @@
 # Hey there 👋, I'm Alireza Atashfaraz
-
+### A passionate front end developer and programmer
+<br>
 <a href="https://discord.gg/atashfaraz">
   <img align="left" alt="Atashfaraz's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -13,8 +14,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=return75.return75)
 
 <br />
-
-### A passionate front end developer and programmer
 
 **languages and tools:**
 
