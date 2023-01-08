@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Alireza Atashfaraz
 ### A passionate front end developer and programmer
-<br>
+
 <a href="https://discord.gg/atashfaraz">
   <img align="left" alt="Atashfaraz's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -14,6 +14,22 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=return75.return75)
 
 <br />
+
+
+
+
+### Some projects I have done
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem">
+<img src="https://github.com/return75/tanks-game/raw/master/tanks-war.gif" width="300px" style="border-radius: 1rem" />
+<img src="https://github.com/return75/return75/raw/main/github-3d.gif" width="300px" style="border-radius: 1rem" />
+<img src="https://github.com/return75/return75/raw/main/perlin.gif" width="300px" style="border-radius: 1rem" />
+<img src="https://github.com/return75/return75/raw/main/arrow.gif" width="300px" style="border-radius: 1rem" />
+<img src="https://github.com/return75/4Cars/raw/master/4cars.gif" width="300px" style="border-radius: 1rem" />
+</div>
+
+<br/>
+<br/>
+
 
 **languages and tools:**
 
