@@ -27,6 +27,9 @@
     <a href="https://github.com/return75/return75/raw/main/github-3d.gif" target="_blank">
         <img src="https://github.com/return75/return75/raw/main/github-3d.gif" width="400px" />
     </a>
+    <a href="https://material-tracking-data-visualization.vercel.app" target="_blank">
+        <img src="https://github.com/return75/return75/raw/main/haulage-data-visual.gif" width="400px" />
+    </a>
     <a href="https://perlin-noise-theta.vercel.app/" target="_blank">
         <img src="https://github.com/return75/return75/raw/main/perlin.gif" width="400px" />
     </a>
