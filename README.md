@@ -25,7 +25,9 @@
         <img src="https://github.com/return75/return75/raw/main/world-map.gif" width="800px" />
     </a>
    
+    <a>
         <img src="https://github.com/return75/return75/raw/main/github-3d.gif" width="400px" />
+    </a>
    
     <a href="https://perlin-noise-theta.vercel.app/" target="_blank">
         <img src="https://github.com/return75/return75/raw/main/perlin.gif" width="400px" />
