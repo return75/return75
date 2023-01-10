@@ -25,7 +25,7 @@
         <img src="https://github.com/return75/return75/raw/main/world-map.gif" width="800px" />
     </a>
    
-    <a>
+    <a href="/">
         <img src="https://github.com/return75/return75/raw/main/github-3d.gif" width="400px" />
     </a>
    
