@@ -21,14 +21,24 @@
 ### Some projects I have done
 
 <div>
-<a href="https://3d-world-map.vercel.app">
-<img src="https://github.com/return75/return75/raw/main/world-map.gif" width="800px" />
-</a>
-    <img src="https://github.com/return75/return75/raw/main/github-3d.gif" width="400px" />
-    <img src="https://github.com/return75/return75/raw/main/perlin.gif" width="400px" />
-    <img src="https://github.com/return75/return75/raw/main/arrow.gif" width="400px" />
-    <img src="https://github.com/return75/4Cars/raw/master/4cars.gif" width="400px" />
-    <img src="https://github.com/return75/tanks-game/raw/master/tanks-war.gif" width="400px" />
+    <a href="https://3d-world-map.vercel.app" target="_blank">
+        <img src="https://github.com/return75/return75/raw/main/world-map.gif" width="800px" />
+    </a>
+    <a href="https://vercel.com/atashfaraz/contribution-3d" target="_blank">
+        <img src="https://github.com/return75/return75/raw/main/github-3d.gif" width="400px" />
+    </a>
+    <a href="https://vercel.com/atashfaraz/perlin-noise" target="_blank">
+        <img src="https://github.com/return75/return75/raw/main/perlin.gif" width="400px" />
+    </a>
+    <a href="https://arrow-game-two.vercel.app/" target="_blank">
+       <img src="https://github.com/return75/return75/raw/main/arrow.gif" width="400px" />
+    </a>
+    <a href="https://vercel.com/atashfaraz/4cars" target="_blank">
+        <img src="https://github.com/return75/4Cars/raw/master/4cars.gif" width="400px" />
+    </a>
+    <a href="https://tanks-war.vercel.app/" target="_blank">
+        <img src="https://github.com/return75/tanks-game/raw/master/tanks-war.gif" width="400px" />
+    </a>
 </div>
 
 <br/>
