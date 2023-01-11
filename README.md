@@ -22,25 +22,25 @@
 
 <div>
     <a href="https://3d-world-map.vercel.app" target="_blank">
-        <img src="https://github.com/return75/return75/raw/main/world-map.gif" width="800px" />
+        <img src="https://github.com/return75/return75/raw/main/gifs/world-map.gif" width="800px" />
     </a>
     <a href="https://github.com/return75/return75/raw/main/github-3d.gif" target="_blank">
-        <img src="https://github.com/return75/return75/raw/main/github-3d.gif" width="400px" />
+        <img src="https://github.com/return75/return75/raw/main/gifs/github-3d.gif" width="400px" />
     </a>
     <a href="https://material-tracking-data-visualization.vercel.app" target="_blank">
-        <img src="https://github.com/return75/return75/raw/main/haulage-data-visual.gif" width="400px" />
+        <img src="https://github.com/return75/return75/raw/main/gifs/haulage-data-visual.gif" width="400px" />
     </a>
     <a href="https://perlin-noise-theta.vercel.app/" target="_blank">
-        <img src="https://github.com/return75/return75/raw/main/perlin.gif" width="400px" />
+        <img src="https://github.com/return75/return75/raw/main/gifs/perlin.gif" width="400px" />
     </a>
     <a href="https://arrow-game-two.vercel.app/" target="_blank">
-       <img src="https://github.com/return75/return75/raw/main/arrow.gif" width="400px" />
+       <img src="https://github.com/return75/return75/raw/main/gifs/arrow.gif" width="400px" />
     </a>
     <a href="https://4cars-atashfaraz.vercel.app/" target="_blank">
-        <img src="https://github.com/return75/4Cars/raw/master/4cars.gif" width="400px" />
+        <img src="https://github.com/return75/return75/raw/main/gifs/4cars.gif" width="400px" />
     </a>
     <a href="https://tanks-war.vercel.app/" target="_blank">
-        <img src="https://github.com/return75/tanks-game/raw/master/tanks-war.gif" width="400px" />
+        <img src="https://github.com/return75/return75/raw/main/gifs/tanks-war.gif" width="400px" />
     </a>
 </div>
 
