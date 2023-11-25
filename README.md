@@ -1,24 +1,7 @@
 # Hey there 👋, I'm Alireza Atashfaraz
 ### A passionate front end developer and programmer
 
-<a href="https://discord.gg/atashfaraz">
-  <img alt="Atashfaraz's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/jsvisualizer">
-  <img alt="Atashfaraz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/atashfaraz/">
-  <img alt="Atashfaraz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=return75.return75)
-
 <br />
-
-
-
-
-### Some projects I have done
 
 <div>
     <a href="https://3d-world-map.vercel.app" target="_blank">
@@ -35,18 +18,6 @@
     </a>
     <a href="https://perlin-noise-theta.vercel.app/" target="_blank">
         <img src="https://github.com/return75/return75/raw/main/gifs/perlin.gif" width="400px" />
-    </a>
-    <a href="https://github.com/return75/return75/raw/main/gifs/3d-pixel.gif" target="_blank">
-        <img src="https://github.com/return75/return75/raw/main/gifs/3d-pixel.gif" width="400px" />
-    </a>
-    <a href="https://arrow-game-two.vercel.app/" target="_blank">
-       <img src="https://github.com/return75/return75/raw/main/gifs/arrow.gif" width="400px" />
-    </a>
-    <a href="https://4cars-atashfaraz.vercel.app/" target="_blank">
-        <img src="https://github.com/return75/return75/raw/main/gifs/4cars.gif" width="400px" />
-    </a>
-    <a href="https://tanks-war.vercel.app/" target="_blank">
-        <img src="https://github.com/return75/return75/raw/main/gifs/tanks-war.gif" width="400px" />
     </a>
 </div>
 
